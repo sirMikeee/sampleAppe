@@ -8,7 +8,7 @@ public class Main {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+        System.out.println("");
         System.out.println("WELCOME TO MY SYSTEM!");
         System.out.println("What do you feel like doing today?");
         System.out.println("1. Banking");
